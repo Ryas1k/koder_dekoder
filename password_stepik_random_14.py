@@ -1,4 +1,3 @@
-#Генератор паролей 2 с перцем 
 from random import *
 from string import ascii_uppercase as a_upper,ascii_lowercase as a_lower, digits as dig
 list_upper = [up for up in a_upper if up not in 'LIO']
@@ -17,4 +16,5 @@ def generate_passwords(count, length):
         print(generate_password(m))
 
 n, m = int(input('Количество паролей: ')), int(input('Длину паролей: '))
+
 generate_passwords(n, m)
