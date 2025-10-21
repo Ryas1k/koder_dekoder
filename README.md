@@ -33,6 +33,8 @@
   
 **Файл:** `password_stepik_random_14.py`
 
+<img width="289" height="87" alt="image" src="https://github.com/user-attachments/assets/43abad41-4f3d-4218-866a-bfeb597ebd92" />
+
 ### Уникальные особенности:
 
 -  **Обязательные требования**: каждый пароль содержит:
@@ -75,7 +77,8 @@
 
 **Файл:** `shifr_morse_to_letter2.py`
 
-  
+  <img width="534" height="135" alt="image" src="https://github.com/user-attachments/assets/7f5345ae-7234-45de-8c07-e942dd2ae8e3" />
+
 
 Программа для кодирования текста в азбуку Морзе с поддержкой русского алфавита и цифр.
 
@@ -127,7 +130,8 @@
 
 **Файл:** `deshifr_morse_to_letter.py`
 
-  
+  <img width="847" height="136" alt="image" src="https://github.com/user-attachments/assets/b8fe3c5d-8238-4d2a-a5e3-60347d590384" />
+
 
 Программа для декодирования сообщений из азбуки Морзе обратно в текст.
 
